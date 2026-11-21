@@ -1,7 +1,6 @@
-# Respiratory viruses, pneumococcal carriage density and symptomatic illness in Blantyre children under five
+# Pneumococcal carriage is associated with mild acute respiratory infection in Malawian children under five years of age
 
-Analysis code for the manuscript *"Respiratory virus detection is associated with higher
-nasopharyngeal pneumococcal density in Malawian children under five"* (submitted to
+Analysis code for the manuscript *"Pneumococcal carriage is associated with mild acute respiratory infection in Malawian children under five years of age"* (submitted to
 **BMC Infectious Diseases**).
 
 This repository contains **only** the scripts that generate the reported statistics, the
