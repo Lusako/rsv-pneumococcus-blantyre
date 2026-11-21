@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the associated article."
+title: "Analysis code: respiratory viruses, pneumococcal carriage density and symptomatic illness in Blantyre children under five"
+abstract: >-
+  Statistical analysis and figure-generation code for a cross-sectional study of
+  respiratory virus detection, nasopharyngeal pneumococcal carriage density and
+  symptomatic acute respiratory illness in children under five years of age in
+  Blantyre, Malawi.
+type: software
+authors:
+  - family-names: Sibale
+    given-names: Lusako L.
+    email: llsibale@gmail.com
+    country: MW
+license: MIT
+keywords:
+  - Streptococcus pneumoniae
+  - respiratory syncytial virus
+  - pneumococcal carriage density
+  - co-infection
+  - acute respiratory infection
+  - Malawi
